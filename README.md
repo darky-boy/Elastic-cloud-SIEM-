@@ -41,7 +41,6 @@ Kali Linux VM → Elastic Agent → Elasticsearch → Kibana → Alerts
 ```
 
 <img width="1536" height="1024" alt="elastic architecture final" src="https://github.com/user-attachments/assets/d82df429-1cda-4e9e-9c6c-1dab89993266" />
-<img width="1441" height="959" alt="image" src="https://github.com/user-attachments/assets/e1b8fb4c-e6b9-43bb-b336-bda8cae61b56" />
 
 
 ---
@@ -50,15 +49,14 @@ Kali Linux VM → Elastic Agent → Elasticsearch → Kibana → Alerts
 
 ### 1. Fleet Agent Connected
 
-Show that the Kali agent is healthy and connected.
+<img width="1783" height="726" alt="image" src="https://github.com/user-attachments/assets/51290381-ceb8-40d9-ab89-3309dd7d2845" />
 
-[Add Fleet agent screenshot here]
 
 ### 2. Discover Logs
 
-Show logs being collected from the Kali machine.
+<img width="1915" height="932" alt="image" src="https://github.com/user-attachments/assets/b1cfc2ba-932a-45a5-8a8c-ed4d85211724" />
 
-[Add Discover logs screenshot here]
+
 
 ### 3. Nmap Detection Query
 
@@ -68,25 +66,24 @@ Show the query:
 process.name: "nmap"
 ```
 
-[Add Nmap query screenshot here]
+<img width="1793" height="816" alt="image" src="https://github.com/user-attachments/assets/e09d470c-1f11-4b4b-b3a7-b5af80ae4188" />
+
+
 
 ### 4. Dashboard
 
-Show the graph/dashboard of Nmap activity.
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/1e19e213-b8bb-4435-a90c-a0d712d3ddd5" />
 
-[Add dashboard screenshot here]
 
 ### 5. Alert Rule
 
-Show the Nmap detection rule.
+<img width="1489" height="874" alt="image" src="https://github.com/user-attachments/assets/f1037f85-cf6b-4e3d-a2cd-b73b8fb539f8" />
 
-[Add detection rule screenshot here]
 
 ### 6. Alert Generated
 
-Show that the alert became active after running Nmap.
+<img width="1493" height="266" alt="image" src="https://github.com/user-attachments/assets/2f66d216-c058-40d7-b5e2-14d39c7e4bac" />
 
-[Add active alert screenshot here]
 
 ---
 

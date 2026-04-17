@@ -57,8 +57,11 @@ Kali Linux VM → Elastic Agent → Elasticsearch → Kibana → Alerts
 <img width="1915" height="932" alt="image" src="https://github.com/user-attachments/assets/b1cfc2ba-932a-45a5-8a8c-ed4d85211724" />
 
 
+### 3. Nmap commands on kali linux
 
-### 3. Nmap Detection Query
+<img width="682" height="675" alt="image" src="https://github.com/user-attachments/assets/b957782e-e850-406b-9793-8ff321bbfeca" />
+
+### 4. Nmap Detection Query
 
 Show the query:
 
@@ -70,17 +73,17 @@ process.name: "nmap"
 
 
 
-### 4. Dashboard
+### 5. Dashboard
 
 <img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/1e19e213-b8bb-4435-a90c-a0d712d3ddd5" />
 
 
-### 5. Alert Rule
+### 6. Alert Rule
 
 <img width="1489" height="874" alt="image" src="https://github.com/user-attachments/assets/f1037f85-cf6b-4e3d-a2cd-b73b8fb539f8" />
 
 
-### 6. Alert Generated
+### 7. Alert Generated
 
 <img width="1493" height="266" alt="image" src="https://github.com/user-attachments/assets/2f66d216-c058-40d7-b5e2-14d39c7e4bac" />
 
